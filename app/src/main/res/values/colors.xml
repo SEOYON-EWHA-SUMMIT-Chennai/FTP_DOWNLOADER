@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#00529c</color>
+    <color name="primary_variant">#003260</color>
+    <color name="secondary">#CE3C6F</color>
+    <color name="purple">#FF6200EE</color>
+    <color name="teal">#008080</color>
+
+    <color name="warning">#F47200</color>
+    <color name="error">#DC3545</color>
+    <color name="success">#28A745</color>
+    <color name="info">#17a2b8</color>
+    <color name="divider_color">#D8D8D8</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#757575</color>
+    <color name="denial">#A9A9A9</color>
+    <color name="grey">#CCCCCC</color>
+
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="window_background">#FFFDF6</color>
+    <color name="window_background_dark">#0D0D2E</color>
+    <color name="table_title_background">#C8C8C8</color>
+    <color name="scan_label_background">#3DA9FF</color>
+    <color name="scan_input_background">#8AE68E</color>
+
+    <color name="selected_background_color">#FFFF00</color>
+    <color name="default_background_color">#FFFFFF</color>
+
+    <color name="navy_background">#000080</color>
+    <color name="colorPrimary">#000080</color>
+</resources>
