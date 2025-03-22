@@ -199,7 +199,7 @@ public class HomeActivity extends AppCompatActivity {
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_GRANT_READ_URI_PERMISSION);
             startActivity(intent);
         } else {
-            error("Installation file not found");
+            error("Installation file not found.");
             Toast.makeText(this, "Installation file not found", Toast.LENGTH_SHORT).show();
         }
     }
